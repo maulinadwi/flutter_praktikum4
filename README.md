@@ -10,3 +10,5 @@
 4.  Di dalamnya Column memuat children yang terdiri dari TextWidget dan ImageWidget yang sudah disesuaikan, dengan tambahan  dan menambahkan SizedBox untuk mengatur jarak di antara TextWidget dan ImageWidget.
 
 
+
+<img width="1920" height="1080" alt="Screenshot (471)" src="https://github.com/user-attachments/assets/48a2e866-4fdb-4ba1-baa6-66b2c032d7fb" />
