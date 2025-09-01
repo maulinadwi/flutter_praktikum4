@@ -1,16 +1,7 @@
-# flutter_application2
+# PRAKTIKUM 1 
+1. Praktikum Text widget 
+2. praktikum image widget
+3. Praktikum kombinasi images dan text
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# TAHAPAN KOMBINASI IMAGES 
+1. Pertama membuat file praktikum.dart digunakan untuk 
